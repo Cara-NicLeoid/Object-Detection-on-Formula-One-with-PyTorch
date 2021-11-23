@@ -1,8 +1,8 @@
 # Object Detection on Formula One with PyTorch and YOLOv5
- This project uses YOLOv5 to detect 3 objects (F1_Car,  Wheel and Steering), using a mp4 file of a Formula One Race. 
+ This project uses YOLOv5 to detect 3 objects (F1_Car,  Driver and Steering), using a mp4 file of a Formula One Race. 
 
 
-This project was to create a customised object detector using YOLOv5. The were 3 objects which were detected: Formula One Cars, Drivers and Steering Wheels. 
+This project was to create a customised object detector using YOLOv5. The were 3 objects which were detected: Formula One Cars, Drivers and  Steering Wheels. 
 
 The orginal data for the project was mp4 file of a formula one race. 
 
